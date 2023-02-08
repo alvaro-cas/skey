@@ -1,3 +1,6 @@
+# Medium guide
+If you need a how-to guide, refer to my [Medium post](https://medium.com/@alvaro-cas/keepassxc-sending-my-keys-to-my-phone-effortlessly-1eaa4bf23bfe).
+
 # SKEY
 
 ## Introduction
